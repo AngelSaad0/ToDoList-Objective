@@ -37,6 +37,9 @@ The app is designed for productivity and smooth task handling.
 <img src="https://github.com/user-attachments/assets/823b8d33-6032-4894-a3a9-7c27d66a8e56" width="180" />
 <img src="https://github.com/user-attachments/assets/a58050fc-f170-4d45-9214-e2b33f4abd80" width="180" />
 <img src="https://github.com/user-attachments/assets/2e597bc6-a56c-445a-a6de-416a29528c37" width="180" />
+---
+
+
 ## 🔒 Disclaimer
 
 This is a **private project**, and all contents (code, designs, and assets) are protected by copyright.
