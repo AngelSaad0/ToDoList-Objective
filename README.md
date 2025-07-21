@@ -1,3 +1,24 @@
+# ✅ Objective Tasks – Private Project
+
+Objective Tasks is a simple and efficient to-do list app built with **Objective-C**.  
+It helps users stay organized by allowing them to easily add, manage, and delete tasks through a clean and intuitive interface.  
+The app is designed for productivity and smooth task handling.
+
+> 🚫 **This is a private project developed by Angel Saad.**  
+> Not intended for public distribution or reuse.  
+> All rights reserved ©️
+---
+## 👤 Angel Saad – Contact Info
+
+| 🌐 [LinkedIn](https://www.linkedin.com/in/angel-saad-768502295/) |
+|-------------------------------------------------------------|
+| 💻 [GitHub](https://github.com/AngelSaad0)                  |
+| 📧 [Email](mailto:engysaad573new@gmail.com)                 |
+| 📱 [WhatsApp](https://wa.me/+201204658575)                 |
+| 📘 [Facebook](https://www.facebook.com/engy.saad.907089)   |
+| ▶️ [YouTube](https://youtu.be/M2EodIiQLdk)                 |
+
+---
 <img src="https://github.com/user-attachments/assets/e9027d91-12b4-443a-a725-91c83267d110" width="180" />
 <img src="https://github.com/user-attachments/assets/299f9892-2bcb-40f5-be15-2dcfb930658d" width="180" />
 <img src="https://github.com/user-attachments/assets/031b3d1e-86a2-4dd5-b827-55f4f13f729f" width="180" />
@@ -16,3 +37,11 @@
 <img src="https://github.com/user-attachments/assets/823b8d33-6032-4894-a3a9-7c27d66a8e56" width="180" />
 <img src="https://github.com/user-attachments/assets/a58050fc-f170-4d45-9214-e2b33f4abd80" width="180" />
 <img src="https://github.com/user-attachments/assets/2e597bc6-a56c-445a-a6de-416a29528c37" width="180" />
+## 🔒 Disclaimer
+
+This is a **private project**, and all contents (code, designs, and assets) are protected by copyright.
+Unauthorized use, copying, or redistribution is strictly prohibited.
+
+---
+
+**Thanks for your interest! ❤️**
